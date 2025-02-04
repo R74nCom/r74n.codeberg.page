@@ -1,4 +1,4 @@
-# r74ncom.github.io
-GitHub Pages index page for R74n.
+# r74n.vercel.app
+Vercel index page for R74n.
 
-Much of our GitHub-specific business will be here.
+Much of our Vercel-specific business will be here.
