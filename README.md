@@ -1,4 +1,4 @@
-# r74n.vercel.app
-Vercel index page for R74n.
+# r74n.codeberg.page
+Codeberg index page for R74n.
 
-Much of our Vercel-specific business will be here.
+Much of our Codeberg-specific business will be here.
